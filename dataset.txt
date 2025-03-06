@@ -1,0 +1,354 @@
+
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/canals/al_radio_stn6.wav|alyx|en|Black Mesa East to Station 6. Do you read? Dr. Freeman is on his way downriver. Lend him the airboat and give him all the help you can. Repeat. Gordon Freeman has returned! It is critical he reaches Black Mesa East. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_ascent.wav|alyx|en|Great! Oh no. Breen's started his ascent. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_beforeescape.wav|alyx|en|Hurry, Gordon, before he escapes. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_betterhurry.wav|alyx|en|We'd better hurry, Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_bitofit.wav|alyx|en|You haven't seen a bit of it yet. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_bluff.wav|alyx|en|He's bluffing, Gordon. Don't listen to him. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_cantshutdown.wav|alyx|en|I can't shut it down. Looks like he's turned over control to the other side. You'll have to go into the core and do what you can. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_chancelikethis.wav|alyx|en|We'll never have a chance like this again. We've got to stop Dr. Breen. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_chargeup.wav|alyx|en|Charge up your suit first. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_comegordon.wav|alyx|en|Come on, Gordon, let's go! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_comeon.wav|alyx|en|Come on. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_comingafterme.wav|alyx|en|Gordon, we haven't known each other very long, but I know you didn't have to do this. I had to rescue my father, but you... well... Thanks for coming after me. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_dad.wav|alyx|en|Dad! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_dadgordonno.wav|alyx|en|Dad! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_dadgordonno_b.wav|alyx|en|Gordon 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_dadgordonno_c.wav|alyx|en|No... 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_dadhangon.wav|alyx|en|Dad, hang on! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_dadsorry.wav|alyx|en|Dad, I'm so sorry. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_darkfusionreactor.wav|alyx|en|Oh my God.  This is the Citadel's dark fusion reactor.  It powers their tunneling entanglement device. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_dienow_b.wav|alyx|en|How dare you even mention her! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_dontforget.wav|alyx|en|Don't forget to charge up your suit. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_dontlisten.wav|alyx|en|Don't listen to him, Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_dontlistentohim.wav|alyx|en|Don't listen to him, Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_doworst.wav|alyx|en|Do your worst Gordon... but... be careful. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_elevator.wav|alyx|en|Get in the elevator. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_fail_no.wav|alyx|en|No! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_gettingaway.wav|alyx|en|No, he's getting away! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_gogordon.wav|alyx|en|Go, Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_gordonwouldnever.wav|alyx|en|Gordon would never make any kind of deal with you. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_heylisten.wav|alyx|en|Hey, listen. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_hurrymossman02.wav|alyx|en|Hurry! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_itsbreen.wav|alyx|en|It's Dr. Breen.  There he is! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_keepgoing.wav|alyx|en|Keep going. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_letyouin.wav|alyx|en|Get in the elevator and I'll let you in. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_lookafterdad.wav|alyx|en|Dr. Mossman... 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_lookafterdad_b.wav|alyx|en|Judith... 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_lookafterdad_c.wav|alyx|en|Look after my father. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_lookwhatheleft.wav|alyx|en|Hey, look what he left behind! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_noclue.wav|alyx|en|He doesn't have a clue, does he? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_notagain02.wav|alyx|en|Damn it, not again! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_notsayinggoodbye.wav|alyx|en|Dad, I'm not saying goodbye. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_outofhere.wav|alyx|en|Come on, Gordon, we've got to get out of here. Maybe we still have ...
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_soldiers01_a.wav|alyx|en|Oh no, Combine soldiers. Where did they come from? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_soldiers01_b.wav|alyx|en|What the hell? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_stayawaycore.wav|alyx|en|Stay away from the core. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_staybackbeam.wav|alyx|en|Watch out for the beams! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_success_yes.wav|alyx|en|Yes! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_success_yes_nr.wav|alyx|en|Yes! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_success_yes02_nr.wav|alyx|en|Yeah! You did it! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_thatshim.wav|alyx|en|That's him. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_thegravgun01.wav|alyx|en|The gravity gun! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_thegravgun03.wav|alyx|en|Gordon, get the gravity gun. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_thegravgun04.wav|alyx|en|Take the gravity gun, Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_thereheis.wav|alyx|en|There he is! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_uptop.wav|alyx|en|Oh my God, the portal's opening. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_watchout01.wav|alyx|en|Watch out, he's gonna--
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_wonderwhere.wav|alyx|en|I wonder where he's going. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_working.wav|alyx|en|Keep it up, Gordon, it's working. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_yes.wav|alyx|en|Yes!
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/citadel/al_yes_nr.wav|alyx|en|Yes!
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_allright01.wav|alyx|en|All right. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_anotherdog.wav|alyx|en|Another one, Dog. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_autocycle.wav|alyx|en|We're in the scrapyard airlock stuck in a full autocycle. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_awesome.wav|alyx|en|Awesome. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_blamingme.wav|alyx|en|Are you blaming me? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_buildastack.wav|alyx|en|Come on, Gordon, build a stack and get up here. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_cavedin_b.wav|alyx|en|Gordon, you need to get out of here. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_cavedin_c.wav|alyx|en|I can't leave my father. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_cmongord01.wav|alyx|en|Come on, Gordon! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_cmongord02.wav|alyx|en|Come on! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_comeongord01.wav|alyx|en|Come on, Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_comeongord02.wav|alyx|en|This way, Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_dad_ques01.wav|alyx|en|Dad? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_dad_scared01.wav|alyx|en|Dad? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_dad_scared02.wav|alyx|en|Dad! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_dadplease.wav|alyx|en|Dad, please... 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_dadwhatsup.wav|alyx|en|What's going on in there? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_dogairlock01.wav|alyx|en|Damn it! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_dogairlock02.wav|alyx|en|Dog, open the airlock. Get us out of here. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_dogcome.wav|alyx|en|Dog, come! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_doyouread.wav|alyx|en|Dad, it's Alyx, do you read? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_earnedit01.wav|alyx|en|Well, he earned it. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_excellent01.wav|alyx|en|Excellent. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_getitopen01.wav|alyx|en|Hurry! Now! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_getitopen02.wav|alyx|en|Tear it apart if you have to! Just get it open! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_getyourball.wav|alyx|en|Dog, go get your ball. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_giveittry.wav|alyx|en|Give it a try. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_goaheaddog.wav|alyx|en|Go ahead, Dog, throw! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_goodcatch.wav|alyx|en|Good catch. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_gooddoggie.wav|alyx|en|Good doggie. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_goodthrow.wav|alyx|en|Good throw. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_grabthrow.wav|alyx|en|The secondary trigger lets you grab things. You can throw them with the primary. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_gravdrop.wav|alyx|en|Once you've picked something up you can drop it gently by pressing your secondary trigger again. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_hazmat.wav|alyx|en|It's designed for handling hazardous materials, but we mainly use it for heavy lifting. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_hereyougo02.wav|alyx|en|Here you go. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_heshere.wav|alyx|en|He's right here. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_intoairlock01.wav|alyx|en|Dog! Come! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_intoairlock02.wav|alyx|en|Get in here 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_intoairlock03.wav|alyx|en|Into the airlock!  Now! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_intoairlock04.wav|alyx|en|Come on, hurry! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_intoairlock05.wav|alyx|en|Before they spot us! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_laugh01.wav|alyx|en|*laughter*
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_laugh02.wav|alyx|en|*laughter*
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_letmedo.wav|alyx|en|Then maybe you should let me do the calculations next time, as well as installing it. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_liketofetch.wav|alyx|en|When I told you Dog liked to play fetch, I didn't tell you who'd be fetching, did I? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_metmossman01.wav|alyx|en|So, I see you've met Dr. Mossman. She's one of the main reasons I spend so much time outside. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_metmossman03.wav|alyx|en|You should hear her drone on about how it should have been her in the Black Mesa Test Chamber that day. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_metmossman04.wav|alyx|en|I'm sorry, I shouldn't be talking behind her back. It just gets a bit claustrophobic down here. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_minefield.wav|alyx|en|I've found it handy for clearing minefields. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_niceshot.wav|alyx|en|Nice shot! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_noboydown.wav|alyx|en|No!  No, boy! Down! Put that down! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_nodog.wav|alyx|en|No, Dog! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_nowcalldog.wav|alyx|en|Now let me call Dog. He loves to play fetch. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_okletsplay.wav|alyx|en|Okay, Dog, let's play catch with Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_pickuptoss.wav|alyx|en|Pick up some stuff and toss it. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_placeobjs.wav|alyx|en|You can place objects by moving them into position and hitting the secondary trigger again. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_primary.wav|alyx|en|The primary trigger emits a charge. You can punt stuff and send it flying. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_pullfromdistance.wav|alyx|en|You can also pull stuff over from a distance. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_pullfromdistance_b.wav|alyx|en|Try grabbing those barrels from that ledge up there. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_ravenholm01.wav|alyx|en|That's the old passage to Ravenholm. We don't go there anymore. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_ravenholm02.wav|alyx|en|We used to be able to go right up there to Ravenholm.  It was an old mining town inhabited by some escapees from City 17.
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_ravenholm02b.wav|alyx|en|We used to be able to go right up there to Ravenholm.  It was an old mining town inhabited by some escapees from City 17.
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_ravenholm06.wav|alyx|en|Believe me, that tunnel is sealed for a reason. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_scanners01.wav|alyx|en|What is it, Dog? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_scanners02.wav|alyx|en|Oh my god!  What was that? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_scanners03.wav|alyx|en|Scanners! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_scanners06.wav|alyx|en|The Combine's sweeping the area! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_scanners07.wav|alyx|en|We've gotta head back to the lab. Come on, Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_scrapyard.wav|alyx|en|So, here we are. The scrapyard. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_seeifyoucanstack.wav|alyx|en|See if you can stack some stuff to climb up here. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_somethingbigger.wav|alyx|en|Dog, throw something bigger. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_somethingelse.wav|alyx|en|Okay, Gordon, let's try something else. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_standbackdog.wav|alyx|en|That's enough, Dog. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_sweet.wav|alyx|en|Sweet! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_takegord02.wav|alyx|en|Dog, take Gordon to the Ravenholm tunnel, then circle around and try to meet up with me. Hurry! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_takeit.wav|alyx|en|Take it. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_takethis.wav|alyx|en|Take this. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_thisisdog01.wav|alyx|en|Gordon, this is Dog. My Dad built him to protect me when I was a kid. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_thisisgravgun.wav|alyx|en|This is the gravity gun my father was talking about. You can call it the 'Zero Point Energy Field Manipulator' if you really want to. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_throwanotherdog.wav|alyx|en|Throw another, Dog. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_throwitdog.wav|alyx|en|Throw it, Dog. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_throwtodog.wav|alyx|en|Okay, Gordon, now you throw something to Dog and let him catch. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_thyristor02.wav|alyx|en|I guess you proved you can handle yourself out there. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_trystacking.wav|alyx|en|Try stacking some things. Grab something with your secondary trigger, then press the same trigger again to drop it gently. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_ugh.wav|alyx|en|Let's get out of here. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_usegravgun.wav|alyx|en|You'll need to use the gravity gun. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_wasted01.wav|alyx|en|The vortigaunts relieved me so I could come see Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_wasted02.wav|alyx|en|Anyway, I should be in here working on the portal. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_wheresball.wav|alyx|en|Where's your ball, Dog? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/eli_lab/al_yayhigh.wav|alyx|en|First model was about yay-high. I've been adding to him ever since.  Haven't I, boy? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_aboutthecat.wav|alyx|en|Hey, uh, yeah. About that cat... 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_allrightdoc.wav|alyx|en|Uh-oh. Everything all right, Doctor Kleiner? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_animalperson.wav|alyx|en|Barney... You're not an animal person? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_buyyoudrink01.wav|alyx|en|Hmm.
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_careful.wav|alyx|en|Careful there. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_careful02.wav|alyx|en|Careful. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_carefulthere.wav|alyx|en|Uh, careful there. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_cmonfreeman.wav|alyx|en|Uh, Doctor Freeman, come on. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_comeon.wav|alyx|en|Come on. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_comingthru.wav|alyx|en|He's coming through, Dad. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_comingwith.wav|alyx|en|Don't worry. He's coming with me 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_foundhim.wav|alyx|en|I found him wandering around outside. Bit of a troublemaker, isn't he? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_heydoc.wav|alyx|en|Hey, Doc! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_hmm.wav|alyx|en|Hmm. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_itsthere.wav|alyx|en|It's right there, Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_keepitgoing.wav|alyx|en|Keep it going, Gordon! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_kleinerswaiting.wav|alyx|en|Well, come on. Dr. Kleiner's waiting. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_letsdoit.wav|alyx|en|Then let's do it. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_readyforus.wav|alyx|en|Are you ready for us, Dad? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_seeifitworks.wav|alyx|en|Let's just see if this thing works, okay? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_showonroad.wav|alyx|en|Meanwhile, let's get this show on the road. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_takecredit.wav|alyx|en|I can't take any credit for the breakthrough, Doctor. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_takeiteasy.wav|alyx|en|Take it easy, Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_thatsit.wav|alyx|en|That's it. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_theplug.wav|alyx|en|Uh, Doctor? The plug? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_there.wav|alyx|en|Uh, there. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_thereheis.wav|alyx|en|There he is! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_theswitch.wav|alyx|en|The switch, Dr. Freeman. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_throwswitch.wav|alyx|en|You going to let Gordon throw the switch? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_uhoh01.wav|alyx|en|Uh-oh. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_whatcat01.wav|alyx|en|What cat? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_whatcat02.wav|alyx|en|What cat? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_whatsgoingon.wav|alyx|en|What's going on? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_wontlook.wav|alyx|en|Don't worry, I won't look 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_woohoo.wav|alyx|en|Uh...okay...oh ah oooh!
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab/al_youcoming.wav|alyx|en|You coming? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_andmyfather.wav|alyx|en|But what about my father? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_anotherpet.wav|alyx|en|We'll find you another pet headcrab! There are plenty to go around! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_aweek.wav|alyx|en|A week... 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_aweek_b.wav|alyx|en|Then what have we missed? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_catchup.wav|alyx|en|Okay, Gordon, you heard him. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_catchup_b.wav|alyx|en|I'll catch up with you as soon as I've got Dr. Kleiner settled. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_doggowithgordon.wav|alyx|en|Dog, go with Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_dogyoumadeit.wav|alyx|en|Dog! You made it! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_exploded.wav|alyx|en|I was afraid we might not make it either. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_exploded_b.wav|alyx|en|I think the teleport exploded just as we were porting out. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_getmyfather.wav|alyx|en|We've got to get my father out. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_goodboy.wav|alyx|en|Good boy! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_gordontakecare.wav|alyx|en|Gordon... 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_gordontakecare_b.wav|alyx|en|Take care of yourself out there. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_headyourway.wav|alyx|en|Gordon and Dog can head your way. I want to get Dr. Kleiner somewhere safer, then I'll meet up with you. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_illtakecareofthis.wav|alyx|en|Go on, Gordon, I'll take care of this. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_klab2_exitnag01.wav|alyx|en|You better hurry. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_klab2_exitnag02.wav|alyx|en|Go on, Gordon! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_klab2_exitnag03.wav|alyx|en|Go on. Find Barney! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_notime.wav|alyx|en|Oh no...  
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_notime_b.wav|alyx|en|Dr. Kleiner, there's really no time. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_optimism.wav|alyx|en|I wish I shared your optimism, Doctor... 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_wemadeit.wav|alyx|en|My God... we made it. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_whatdoyoumean.wav|alyx|en|What do you mean? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_whatdoyoumean_b.wav|alyx|en|Gordon and I were just there a minute ago. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_whatswrong.wav|alyx|en|What's wrong? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_wheresdoc01.wav|alyx|en|But where's Dr. Kleiner? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/k_lab2/al_wheresdoc02.wav|alyx|en|Dr. Kleiner! Let us out! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_almostthere.wav|alyx|en|Almost there. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_backdown.wav|alyx|en|What's that? Hold on. Gotta bring this back down. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_betyoudid01.wav|alyx|en|I'll bet you did. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_betyoudid03.wav|alyx|en|It looks like it's waiting for us. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_bringhimin.wav|alyx|en|All right, I think I can bring him in. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_careofyourself.wav|alyx|en|Hey, take care of yourself. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_combinespy01.wav|alyx|en|No! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_combinespy03.wav|alyx|en|Damn her, I don't believe this! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_combinespy04.wav|alyx|en|Come on, Gordon, now we've really gotta hurry. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_combinespy05.wav|alyx|en|Go on ahead. I'll disrupt the next level of security, and catch up with you when I can. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_comebackdad.wav|alyx|en|Get back here! Dad! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_comeonin02.wav|alyx|en|Come on in, Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_covermegordon.wav|alyx|en|Cover me, Gordon! I've gotta reset the portal. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_croom2_arrival.wav|alyx|en|Be there in a second, Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_croom2_entry.wav|alyx|en|You're coming up to another control room. Looks like it's still occupied. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_croom2_fields.wav|alyx|en|My guess is there's a bunch more soldiers heading your way. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_croom2_incoming.wav|alyx|en|I can't shut down those fields from here, I'm going to have to catch up with you to get access to them. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_croom2_incoming_2.wav|alyx|en|I'm picking up a lot of incoming soldiers, hold the fort til I get there. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_croom2_search.wav|alyx|en|Quick, search the room. There should be some Combine turrets nearby. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_dadallright.wav|alyx|en|Dad, are you all right? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_daddownhere01.wav|alyx|en|Dad!  Down here! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_daddownhere02.wav|alyx|en|Sorry we took so long. I hope that wasn't too bad for you. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_dadswork.wav|alyx|en|That's my father's work you stole. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_docstop.wav|alyx|en|Dr. Kleiner, you have to stop them! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_drk01.wav|alyx|en|Dr. Kleiner! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_drk02.wav|alyx|en|We're in Nova Prospekt, and we're running the Xen emulation for the first time. Are you ready for us? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_drkleiner01.wav|alyx|en|I talked to Dr. Kleiner 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_drkleiner01_b.wav|alyx|en|His portal was almost working again. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_drkleiner01_c.wav|alyx|en|If he's managed to repair it we'll end up there. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_drkleiner01_d.wav|alyx|en|If he hasn't, well... 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_drkleiner01_e.wav|alyx|en|we couldn't be any worse off. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_elevator02.wav|alyx|en|Man of few words, aren't you? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_elevator03.wav|alyx|en|Get ready... 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_enoughbs01.wav|alyx|en|Enough of your bullshit! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_enoughbs02.wav|alyx|en|Look, Gordon, there's my dad. I'm going to bring him in. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_findmossman01.wav|alyx|en|Let's see if we can find Mossman. It looks like this station might give me better access. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_findmossman03.wav|alyx|en|There she is. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_findmyfather.wav|alyx|en|Now, to find my father. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_flyingblind.wav|alyx|en|I'm afraid I'm flying blind here. Every now and then a vortigaunt gets captured and sends back information, but we don't have a complete picture of the place. The little we do know is all bad. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_getopen.wav|alyx|en|All right, let me see if I can get this open 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_gladtoseeyou.wav|alyx|en|Boy am I glad to see you. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_gladtoseeyoureok.wav|alyx|en|Glad to see you're okay. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_goonthru01.wav|alyx|en|All right, Gordon, go on through. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_goonthru02.wav|alyx|en|I'm going to head back to the security station and try to patch into your suit radio. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_goonthru03.wav|alyx|en|Wait till you hear from me. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_goonthru04.wav|alyx|en|Go on, get in there. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_gordon01.wav|alyx|en|Gordon! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_gordongetin.wav|alyx|en|Come on, Gordon, get in! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_gotyounow01.wav|alyx|en|Ha! Got you now. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_gotyounow02.wav|alyx|en|Well, come on Gordon. We don't want to keep her waiting. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_hacksecurity01.wav|alyx|en|This'll get me into their security system. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_halfway.wav|alyx|en|Looks like it's about halfway there. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_hereweare.wav|alyx|en|All right. Over here. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_holdit.wav|alyx|en|Hold it there. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_holdon.wav|alyx|en|Hold on! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_hurrymossman.wav|alyx|en|Hurry up, Mossman! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_icanreprogram.wav|alyx|en|I can reprogram these turrets to attack the enemy. You set them up to defend the control room. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_illtakecare.wav|alyx|en|I'll take care of that. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_illtalk.wav|alyx|en|There she is.  Leave the talking to me Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_inhere01.wav|alyx|en|He should be in here. Let me just get this open. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_itsdone.wav|alyx|en|Thank god, it's done. Let's get the hell outta here. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_justseconds.wav|alyx|en|Just a couple more seconds... 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_keepsetup01.wav|alyx|en|Keep your turrets set up. You've got to hold on til I get there. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_keepsetup02.wav|alyx|en|Keep those turrets set up. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_keepsetup02r.wav|alyx|en|Keep those turrets set up. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_keepsetup03.wav|alyx|en|Watch your turrets. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_keepsetup03r.wav|alyx|en|Watch your turrets. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_keepsetup04.wav|alyx|en|Remember the turrets, Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_keepsetup04r.wav|alyx|en|Remember the turrets, Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_leapfrog01.wav|alyx|en|Hey, it worked. Let's see what I can do to clear the way for you. Keep an eye out for Mossman. I'll get my dad through the prison as far as I can, then I'll catch up with you. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_letsgetgoing.wav|alyx|en|Let's get going. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_letsgetout01.wav|alyx|en|Let's get out of here. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_lookmonitor.wav|alyx|en|Uh oh.  Look at the monitor. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_mayneedher.wav|alyx|en|We may need her to get out of here. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_meethim.wav|alyx|en|He's on the way. Let's go meet him. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_meetyouthere01.wav|alyx|en|I'm not saying goodbye, Dad.  We'll meet you there. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_moresoldiers01.wav|alyx|en|More soldiers. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_moresoldiers02.wav|alyx|en|More soldiers are coming, Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_moresoldiers04.wav|alyx|en|We must have hit a motherlode of soldiers.  They're coming in from everywhere. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_mutter.wav|alyx|en|All right, let me think.  Think, Alyx, think!
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_nostop.wav|alyx|en|No, stop! What are you doing? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_notexactly.wav|alyx|en|Not exactly. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_notleavinghere01.wav|alyx|en|We're not leaving here without you. That's final. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_notleavingyou01.wav|alyx|en|I think I can recalibrate the Combine portal to get us out of here. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_notleavingyou01_a.wav|alyx|en|No, we're not leaving you. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_ohmygod.wav|alyx|en|Oh my god. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_onepiece.wav|alyx|en|I'm glad you made it here in one piece. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_overhere.wav|alyx|en|Over here! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_perfecttiming03.wav|alyx|en|My Dad's up there somewhere, in that holding area. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_perfecttiming03_b.wav|alyx|en|It's gonna take some doing to get him out. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_pickherup.wav|alyx|en|Don't worry, Dad, we'll find her. For now, I'm going to send you to the teleport chamber. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_poorpeople.wav|alyx|en|Oh my God...these poor people... 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_readings01.wav|alyx|en|These readings are scaring me. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_readings02.wav|alyx|en|Okay, Doc, we're locked on. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_resetting.wav|alyx|en|Okay, it's resetting. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_room1_blockedgate.wav|alyx|en|I'll have this open in a jiffy. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_room1_blockedgate_2.wav|alyx|en|Damn! It's jammed. Okay, I've got an idea. Head back to that office. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_room1_blockedgate_2_nag.wav|alyx|en|Head back to that office, Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_room1_gate.wav|alyx|en|Hang on, I'll see if I can figure out how to get that gate open. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_room1_lights.wav|alyx|en|I'm looking for the light switch now. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_room1_lights_on.wav|alyx|en|There we go. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_room1_move_shelves.wav|alyx|en|According to the schematics, there should be a vent behind those shelves. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_room1_move_shelves_nag.wav|alyx|en|Gordon, go through the airvent behind the shelves. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_room2_gate.wav|alyx|en|I'll start working on this gate. Just a sec. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_room2_gate2.wav|alyx|en|Okay, got it. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_room2_vent.wav|alyx|en|Be careful, Gordon, I'm picking up a lot of Combine sensors in the area ahead. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_room5_done.wav|alyx|en|Okay, Gordon, I'm going to leave off here and catch up with you. Be there as soon as I can. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_room5_entry.wav|alyx|en|I'm picking up more incoming soldiers! See if there are some more turrets nearby! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_room5_incoming.wav|alyx|en|Here they come. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_room5_turrets.wav|alyx|en|Quick, get these set up. I'm seeing soldiers in all directions. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_sealdoor01.wav|alyx|en|Let me seal this door. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_sealdoor02.wav|alyx|en|No turning back now. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_senddadthru.wav|alyx|en|Good.  We'll send my dad through first.  He's in position for... 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_setturrets.wav|alyx|en|Get some turrets set up! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_sheupto01.wav|alyx|en|Wait a minute 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_sheupto02.wav|alyx|en|How'd she...?
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_sheupto03.wav|alyx|en|What's she up to? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_shutupandbeglad01.wav|alyx|en|Shut up and be glad you're still some use to us! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_shutupandbeglad02.wav|alyx|en|We're going to reconfigure this teleport and get the hell out of here. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_sorrysolong.wav|alyx|en|Sorry to take so long, Gordon.  Looks like you could have used some help. I won't leave you again though. Now let's track down Mossman. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_sorrytooksolong.wav|alyx|en|Sorry it took me so long. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_takingforever.wav|alyx|en|God, this is taking forever! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_thecoords.wav|alyx|en|The coordinates, Dr. Mossman.
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_there.wav|alyx|en|There! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_theyrecoming.wav|alyx|en|They're coming, Gordon. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_uhoh_np.wav|alyx|en|Uh-oh. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_useturrets.wav|alyx|en|Gordon, use the turrets! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_warmeditup.wav|alyx|en|So you've warmed it up for us. Good. And just in time. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_werecomingin.wav|alyx|en|Damn it! Move back, Mossman, we're coming in. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_whatcoords.wav|alyx|en|Oh my god!  What coordinates are these?  Where the hell did she take him? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_whereareyou01.wav|alyx|en|Great, another security station. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_whereareyou02.wav|alyx|en|All right, Mossman, where are you...?
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_whereareyou03.wav|alyx|en|Ha!  Found her!
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_youandbreen.wav|alyx|en|We know all about you and Breen. You've been a spy for the Combine the whole time. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_youbeenworking.wav|alyx|en|And you've been working with this thing? For how long? 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_youmadeit.wav|alyx|en|Gordon, you made it! 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_yououtdad.wav|alyx|en|We're here to get you out, Dad. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_youput01.wav|alyx|en|No thanks to you. 
+/home/dihydromonoxide/Projects/PythonProjects/python-hl2-line-recorder/lines/sound/vo/novaprospekt/al_youput02.wav|alyx|en|Just enter the coordinates for Dr. Kleiner's lab and let's get moving. 
